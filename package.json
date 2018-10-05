@@ -2,7 +2,7 @@
   "name": "dynamic-components-nuxt-with-jest",
   "version": "1.0.0",
   "dependencies": {
-    "nuxt": "1.4.1"
+    "nuxt": "^2.1.0"
   },
   "license": "MIT",
   "babel": {
